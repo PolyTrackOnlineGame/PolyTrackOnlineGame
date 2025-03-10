@@ -1,6 +1,8 @@
 # Welcome to the Thrilling World of Poly Track!
 Experience fast-paced racing, create custom tracks, and challenge yourself in Poly Track a low-poly game where every millisecond counts!
 
+![Poly Track](/polytrack.jpg)
+
 ## About Poly Track
 Welcome to Poly Track, the ultimate low-poly racing experience that combines speed, strategy, and creativity! This fast-paced game invites players to take on thrilling challenges across dynamic polygonal tracks, reminiscent of the beloved TrackMania. In Poly Track, every race counts, as you strive to master the art of speed while navigating loops, jumps, and intricate obstacles. One of the standout features of Poly Track is its user-friendly level editor, allowing you to design custom tracks that reflect your unique style and racing strategy. Engage with the vibrant Poly Track community to share creations, exchange design codes, and gather tips to enhance your racing skills. Whether racing against the clock to beat your personal best or challenging friends for the highest score, the exhilarating blend of excitement and creativity in Poly Track guarantees hours of addictive gameplay. Embrace the thrill of racing and the joy of building in this one-of-a-kind game that keeps you on the edge of your seat!
 
